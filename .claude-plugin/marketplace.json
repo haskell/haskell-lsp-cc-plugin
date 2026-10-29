@@ -1,0 +1,17 @@
+{
+  "name": "haskell-lsp",
+  "description": "Haskell language server (HLS) plugin for Claude Code",
+  "owner": {
+    "name": "Laurent Rene de Cotret",
+    "email": "laurent.decotret@outlook.com"
+  },
+  "plugins": [
+    {
+      "name": "haskell-language-server-lsp",
+      "description": "Haskell language server (HLS) for code intelligence, diagnostics and navigation",
+      "version": "1.0.0",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

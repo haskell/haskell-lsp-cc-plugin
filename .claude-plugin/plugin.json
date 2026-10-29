@@ -1,0 +1,11 @@
+{
+  "name": "haskell-language-server-lsp",
+  "version": "1.0.0",
+  "description": "Haskell language server (HLS) for code intelligence, diagnostics and navigation",
+  "author": {
+    "name": "Laurent Rene de Cotret",
+    "email": "laurent.renedecotret@kraken.com"
+  },
+  "license": "BSD-3-Clause",
+  "keywords": ["haskell", "lsp", "hls", "language-server", "cabal", "stack"]
+}
