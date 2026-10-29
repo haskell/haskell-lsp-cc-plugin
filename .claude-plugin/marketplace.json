@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "haskell-language-server-lsp",
+      "name": "haskell-lsp",
       "description": "Haskell language server (HLS) for code intelligence, diagnostics and navigation",
       "version": "1.0.0",
       "source": "./",

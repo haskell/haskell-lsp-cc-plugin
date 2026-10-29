@@ -40,7 +40,7 @@ HLS discovers how to build your project through a [cradle](https://haskell-langu
 
 ## Install the plugin
 ```
-/plugin install haskell-language-server-lsp --marketplace LaurentRDC/haskell-lsp
+/plugin install haskell-lsp --marketplace LaurentRDC/haskell-lsp
 ```
 
 ## More Information
