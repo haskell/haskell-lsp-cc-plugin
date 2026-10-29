@@ -1,4 +1,4 @@
-# haskell-language-server-lsp
+# haskell-lsp
 
 Haskell language server ([HLS](https://haskell-language-server.readthedocs.io/)) for Claude Code, providing code intelligence, diagnostics and navigation for Haskell projects.
 
