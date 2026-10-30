@@ -4,7 +4,7 @@
   "description": "Haskell language server (HLS) for code intelligence, diagnostics and navigation",
   "author": {
     "name": "Laurent Rene de Cotret",
-    "email": "laurent.renedecotret@kraken.com"
+    "email": "laurent.outlook@outlook.com"
   },
   "license": "BSD-3-Clause",
   "keywords": ["haskell", "lsp", "hls", "language-server", "cabal", "stack"]
